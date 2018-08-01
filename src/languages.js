@@ -23,6 +23,12 @@ const languages = {
     accept: 'Acceptă',
     learnMore: 'Află mai multe',
   },
+  en: {
+    title: 'Cookie politik',
+    content: 'Vores hjemmeside bruger cookies for at analysere hvordan siden bliver brugt, og at din oplevelse er konsistent mellem besøg.',
+    accept: 'Accepter',
+    learnMore: 'Lær mere',
+  }, 
 };
 
 export default languages;
