@@ -108,7 +108,7 @@ if (typeof __g == 'number') __g = global; // eslint-disable-line no-undef
 /* 3 */
 /***/ (function(module, exports) {
 
-var core = module.exports = { version: '2.5.6' };
+var core = module.exports = { version: '2.5.7' };
 if (typeof __e == 'number') __e = core; // eslint-disable-line no-undef
 
 
@@ -558,6 +558,12 @@ var languages = {
     content: 'Site-ul nostru utilizează module cookie și alte tehnologii similare pentru a optimiza funcţionalitatea si a îmbunătăţi experienţa de navigare.',
     accept: 'Acceptă',
     learnMore: 'Află mai multe'
+  },
+  da: {
+    title: 'Cookie politik',
+    content: 'Vores hjemmeside bruger cookies for at analysere hvordan siden bliver brugt, og at din oplevelse er konsistent mellem besøg.',
+    accept: 'Accepter',
+    learnMore: 'Lær mere'
   }
 };
 
